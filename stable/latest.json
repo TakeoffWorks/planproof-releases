@@ -1,0 +1,11 @@
+{
+  "version": "2.25.0",
+  "notes": "PlanProof 2.25.0 — behind-the-scenes update, nothing new to learn\n\n- Nothing changes in how you check a drawing set. The coded note check, equipment tags, scale + title block and spell check work exactly as they did in 2.24.3.\n- PlanProof now looks for its updates in a new, private location, and still falls back to the old location if the new one can't be reached. Updates still install themselves when the app opens; you don't need to do anything. Being on this version is what lets future updates keep reaching you.\n- Each time PlanProof starts, it adds one short line to the usage log it already keeps: when it started, which version it is, and whether the update check worked. Nothing about your drawings is recorded.\n- PlanProof no longer waits on the office file share while it writes that usage log, so the window stays responsive when you open it away from the office network.\n\nAs always: flagged for review, not a certification.",
+  "pub_date": "2026-10-04T03:43:26Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMFpXeVl0bHE5RTVyaTh0WXRtV21hUlI0VnpzT285cUtBUVM5SE9NbS9mZnFlRjVxVW1mTnRCWU9LWjZwRGk1MFdaTnFEcStzb05qTVo5UndEMnJJNUdDOXlSVzNVY0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDg1MzgzCWZpbGU6UGxhblByb29mXzIuMjUuMF94NjQtc2V0dXAuZXhlCnhoVm9aQ2ZXVlJ4VzFiQ0xHcHNkSURQWXVKWTRUUkNlZ3c4RWMvdVBJRWszUXVCRTNNRkNPeFNrU0diblRyejNRbStuZEUrT2kzNm4yTG9Bc3FwTkRRPT0K",
+      "url": "https://api.github.com/repos/TakeoffWorks/planproof-releases/releases/assets/609061548"
+    }
+  }
+}
